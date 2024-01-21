@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:45:42	1028139/1028139	---MCZ	200	added ('OK')	text/html	date:Sat,%2020%20Jan%202024%2000:05:27%20GMT	https://pechinchasjogosbrasil.com/bracas-bing-db.php	C:/cassino%20online/novo/pechinchasjogosbrasil.com/bracas-bing-db.html	(from )
+13:45:43	118/118	---M-Z	200	added ('OK')	text/plain	date:Sat,%2020%20Jan%202024%2000:05:29%20GMT	https://pechinchasjogosbrasil.com/robots.txt		(from )
